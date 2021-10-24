@@ -21,7 +21,7 @@ Have Python3 environment and Pygame Library installed to run the map visualizati
 Clone the repo to your local folder
 
 ```
-git clone https://github.com/zhixuanevelynwu/automata_island_generation.git
+git clone https://github.com/zhixuanevelynwu/random_island_generator.git
 ```
 
 ## Usage <a name = "usage"></a>
