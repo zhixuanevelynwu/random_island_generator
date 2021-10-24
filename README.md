@@ -18,8 +18,6 @@ Have Python3 environment and Pygame Library installed to run the map visualizati
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
 Clone the repo to your local folder
 
 ```
