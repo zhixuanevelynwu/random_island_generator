@@ -34,7 +34,7 @@ python3 show_map.py
 
 You will get a randomly generated visualization window.
 At this point, you can use "S" key to generate a completed map with all islands, desert, and mountain elements:
-![initial window](images/island.png?raw=true "Title")
+![initial window](images/result.png?raw=true "Title")
 
 </br>
 OR
