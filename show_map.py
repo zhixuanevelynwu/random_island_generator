@@ -12,7 +12,7 @@ def main():
     height = 778
     screen = pygame.display.set_mode([width, height])
     running = True
-    grid_width = 10
+    grid_width = 12
     row = int(height / grid_width)
     col = int(width / grid_width)
     automata = automaton.Automata(col, row)
