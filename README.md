@@ -49,12 +49,11 @@ You may use "I" key to first generate islands:
 Then, "D" key to generate deserts and beaches:
 ![initial window](images/desert.png?raw=true "Title")
 <br/>
+Whenever you want a brand new map, type "N". 
+<br/>
+Use "F" key to save a map to the folder.
+<br/>
 To tweak the parameters and generate different looking maps, go to automaton.py file and modify the init function. Below are some examples of maps generated using different parameters:
 ![initial window](images/compare_1.png?raw=true "Title")
 ![initial window](images/compare_2.png?raw=true "Title")
 ![initial window](images/compare_3.png?raw=true "Title")
-
-<br/>
-Whenever you want a brand new map, type "N". 
-<br/>
-Use "F" key to save a map to the folder.
