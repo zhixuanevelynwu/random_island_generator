@@ -8,7 +8,7 @@
 
 ## About <a name = "about"></a>
 
-This is an algorithm for Procedural Game Map Generation that outputs natural-looking game environments. The algorithm is designed to generate flexible and customizable maps. You can adjust different parameters to make the resulting map look dramatically different.
+This is an algorithm for Procedural Game Map Generation that outputs natural-looking game environments. The algorithm is designed to generate flexible and customizable maps.
 
 ## Getting Started <a name = "getting_started"></a>
 
